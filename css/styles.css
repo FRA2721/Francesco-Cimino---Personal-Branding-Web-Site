@@ -1,0 +1,29 @@
+/* 
+@Cookie-Policy & @Copyright 
+Dev  : Francesco Cimino;
+Prog : Personal Branding;
+Lang : css-document; 
+*/
+
+
+
+/* ------------------------------------- */
+/* fonts */
+/* import font */
+
+/* general reset formatting section */
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box
+};
+
+
+/* navbar links formatting section */
+.navbar__list__links{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
